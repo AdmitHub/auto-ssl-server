@@ -19,5 +19,5 @@ Npm.depends({
   'qs': '6.2.1',
   'openpgp': '2.3.3',
   'body-parser': '1.15.2',
-  'libchlngproto': '1.4.3'
+  'libchlngproto': '1.5.0'
 });
